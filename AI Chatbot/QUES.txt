@@ -1,0 +1,61 @@
+["Q) Where to apply for the internship?"
+
+,"Q) Is there any group for updates/information?"
+
+,"Q) When the internship is going to start?"
+
+,"Q) What is the difference in 6,8,12 weeks internships?"
+
+,"Q) Will there be offer letters and certificates?"
+
+,"Q) What are various domains for internship?"
+
+,"Q) Will participants get any help during the project?"
+
+,"Q) When participants will get the appointment letter?"
+
+,"Q) What is successful completion of internship?"
+
+,"Q) Can participants intern in more than one domain simultaneously?"
+
+,"Q) Will participants be able to choose/change the domain & duration for internship?"
+
+,"Q) Internship will be paid or free?"
+
+,"Q) What is the eligibility or selection criteria for participating in this internship?"
+
+,"Q) Can graduates and freshers apply for this internship?"
+
+,"Q) What are the timings for internship ?"
+
+,"Q) Do we require laptop specifically for the projects?"
+
+,"Q) How to choose the domain?"
+
+,"Q) Will data be provided for data analytics internship?"
+
+,"Q) What is Industry- Academia Community (IAC)?"
+
+,"Q) What are the benefits of being part of IAC?"
+
+,"Q) Do I need to pay any fees to be a part of this community?"
+
+,"Q) Do I need to participate in all the activities?" 
+
+,"Q) How many hours of work are expected from me?"
+
+,"Q) Is it necessary to become a member of Industry-Academia Community to avail the benefits?"
+
+,"Q) I am not able to view a page/ I am logged in the training and still the website asks me to login"
+
+,"Q) Can we skip any training if we are already clear with the basics?"
+
+,"Q) Resource links not working. What to do? Should we skip?"
+
+,"Q) Is it okay to mention this internship as ongoing for college records?"
+
+,"Q) Can we do another internship with IP?"
+
+,"Q) What to do after Live Projects? Are we getting an offer letter/Stipend?"
+]
+

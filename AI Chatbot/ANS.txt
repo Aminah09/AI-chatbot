@@ -1,0 +1,62 @@
+[" Please click the link to signup for the free online internship-https://www.industryacademiacommunity.com/courses/Internships."
+         
+," Please join our Telegram Channel https://t.me/+uXmD1vTLpttjN2Vl."
+
+," The internship is starting on Saturday, 1st July 2023."
+
+," The difference in the internship duration is to provide you flexibility to accommodate your academic requirements, as many colleges do not allow their students to do internship while the academic sessions are in progress. Such students can contribute more hours and finish their internship early. The problem statement for all the duration for the respective domain will be same. The excellence awards will categorised based on the duration and projects submitted for 6 weeks will be accessed in relation to the other projects submitted for the same duration."
+
+," The participants will get following certificates and letters: Appointment letter within 15 days after the interns choose the field of interest, Industry Training Certificate (further to completing assessment), Experience Certificate from Cloud Counselage (on successful completion of internship), Appreciation letter/certificate ( For top performers)."
+
+," There are 16 IT & 7 Management domains for internship: Cloud Computing,  Digital Marketing, DevOps, Human Resources, Machine Learning, Data Analytics, Artificial Intelligence, Business Research, Web Development, Java, Python, Business Development, React JS, UI/UX, Node.js, Operations Management, Android Development, Quality Assurance, Flutter, Cyber Security, Product Management,  Project Management, Game Development, Blockchain, Full Stack Development, Marketing Management."
+
+," Participants will get help related to understanding the problem statement and the project delivery process."
+
+," We will be providing appointment letters within 15 days after the interns choose the field of interest."
+
+," The interns have to complete the tasks as per the instructions within the deadlines."
+
+," We encourage focusing on one field at a time as this will help yield better results."
+
+," Participants will get a chance to choose/change the domain and duration for internship from 14th July to 16th July."
+
+," Internship and other IAC activities are absolutely FREE. There is no cost involved for participating in the community activities (including internships) as this is a noble initiative taken up by Cloud Counselage Pvt. Ltd. in association with Gift- A-Career Foundation, to help students, get job-ready, in time!"
+
+," This internship is designed for students in higher education courses and any such student aspiring for IT and Management career can participate in this internship."
+
+," This internship program is designed for undergraduate students but if graduates and freshers feel it is beneficial for them then they can participate in this internship program."
+
+," For schedule of internship please refer-Internship Schedule. The interns are expected to contribute minimum 1 to 2 hours on a daily basis."
+
+," Yes, Laptop is Required."
+
+," A form will be made available to the interns to choose the domain and the duration of the internship."
+
+," Yes, the data will be provided for data analytics."
+
+," Industry-Academia Community (IAC) is a part of 'Industry-Academia Connect' initiative of Cloud Counselage Pvt. Ltd. in association with Gift-A-Career Foundation created for Industry & Academia PAN India. This community engages and supports higher education students and freshers by providing them with 360-degree professional development and career growth opportunities through Career Vision, Career Guidance, Industry & Corporate Exposure, and Hands-on experience/remote internships on live projects. All the benefits of the community can be availed from any corner of the world as it is an online community and at no cost to the members."
+
+," 1. Industry Exposure Workshops, 2. Career Vision, 3. Career Guidance, 4. Industry Training, 5. Internship Program, 6. Industry Visits, 7. CV & Interview Preparations, 8. Soft Skills Workshops, 9. Career Assessments, 10. Hackathons, 11. Job Placements, 12. Entrepreneurship Program."
+
+," This community is created with the intent to eradicate the perpetual unemployability issue amongst the fresh graduates of India. Cloud Counselage is committed to this social cause and therefore the students can be part of this community at no cost. They do not pay any fees and there are no hidden charges for being part of this community and for availing the benefits of the programs offered through this community."
+
+," You can participate in any activities of your choice. However, each activity has its own benefit. The more activities that you participate in the more career/ job-ready you become."
+
+," You are expected to spend 1-2 hours a week completing the professional development activities under IAC. This will ensure continuous professional development."
+
+," You agree to become a member of the community as soon as you sign up for the app or express interest to join the community. The benefits of the app and in turn, the community are only available to the community members. Moreover, there are no fees to become a member of the community."
+
+," This could be because of some issue in the cookies or extension in your browser. Please try again with a different browser or open the tab with incognito mode. Also, you don't need to record your results, the quizzes are only for your knowledge check and not a metric to score you."
+
+," No, these pieces of training will cover basics and there is no harm in brushing up your skills before you start with the assignments later."
+
+," Please do not skip any piece of training, in case you're not able to access any link please message to Cloud Counselage HR and drop an email to hrsupport@cloudcounselage.in regarding the same."
+
+," Yes, we'll provide every intern a joining letter as soon as all interns are inducted. "
+
+," Yes, you can do another internship outside of Cloud Counselage but please ensure to provide 1 hour a day or 7 hours a week for IP."
+
+," Submit your project and once it's reviewed as successful, collect your internship letter. Your internship is complete after this. There is no stipend for live projects. If your work is sublime and we have a vacancy in the position you're interested in, you may be offered a chance for interviews and can get an offer letter from Cloud Counselage Pvt. Ltd. Updates 17/03/2020"
+]
+
+
