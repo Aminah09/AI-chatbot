@@ -1,0 +1,175 @@
+["Q) Where to apply for the internship?"
+
+,"Q) Is there any group for updates/information?"
+
+,"Q) When the internship is going to start?"
+
+,"Q) What is the difference in 6,8,12 weeks internships?"
+
+,"Q) Will there be offer letters and certificates?"
+
+,"Q) What are various domains for internship?"
+
+,"Q) Will participants get any help during the project?"
+
+,"Q) When participants will get the appointment letter?"
+
+,"Q) What is successful completion of internship?"
+
+,"Q) Can participants intern in more than one domain simultaneously?"
+
+,"Q) Will participants be able to choose/change the domain & duration for internship?"
+
+,"Q) Internship will be paid or free?"
+
+,"Q) What is the eligibility or selection criteria for participating in this internship?"
+
+,"Q) Can graduates and freshers apply for this internship?"
+
+,"Q) What are the timings for internship ?"
+
+,"Q) Do we require laptop specifically for the projects?"
+
+,"Q) How to choose the domain?"
+
+,"Q) Will data be provided for data analytics internship?"
+
+,"Q) What is Industry- Academia Community (IAC)?"
+
+,"Q) What are the benefits of being part of IAC?"
+
+,"Q) Do I need to pay any fees to be a part of this community?"
+
+,"Q) Do I need to participate in all the activities?" 
+
+,"Q) How many hours of work are expected from me?"
+
+,"Q) Is it necessary to become a member of Industry-Academia Community to avail the benefits?"
+
+,"Q) I am not able to view a page/ I am logged in the training and still the website asks me to login"
+
+,"Q) I am having trouble finding the workgroup ( no workgroup is visible)"
+
+,"Q) I am not added into my technology workgroup./ actually there are n no of tokens and every token I entered it is showing user no found or redirecting to the same page"
+
+,"Q) When does the LP1/ LP2/ LP3 begin dates and deadline/ end date?"
+
+,"Q) What happens in LP2? What kind of training can we expect? Is it a Basic/Advance level?"
+
+,"Q) What happens in LP3?What kind of training can we expect?Is it a Basic/Advance level?"
+
+,"Q) What to do after LP3?"
+
+,"Q) Can we skip any training if we are already clear with the basics?"
+
+,"Q) Is it ok to clock-out before an hour is completed if the tasks are completed? Do we need to clock-in and compulsorily complete 7 hours a week even if the tasks are completed?"
+
+,"Q) Resource links not working. What to do? Should we skip?"
+
+,"Q) What to do when our university exams start?"
+
+,"Q) Is it okay to mention this internship as ongoing for college records?"
+
+,"Q) Can we do another internship with IP?"
+
+,"Q) What to do after Live Projects? Are we getting an offer letter/Stipend?"
+
+,"Q) When will we get a joining letter?" 
+
+,"Q) When will we get an internship completion letter?"
+
+,"Q) What will be the projects in AI/ ML/ etc. technologies in LP3/ Live Projects?" 
+
+,"Q) Not able to see the task as not part of the IP workgroup"
+
+,"Q) Live Project/ LP3 has to be submitted individually or it will be a group project?" 
+
+,"Q) How can we check our weekly hours?" 
+
+,"Q) Is it necessary to attend LP1 for other domains as well if we want to take its training"
+
+,"Q) Why only this training for LP2?"
+
+,"Q) Could I have done this training from other websites/ resources?"
+
+,"Q) Can I do certification for the training provided in LP2?" 
+
+,"Q) The videos of LP2 are taking too much time to load"
+
+,"Q) Are LP1/ LP2/ LP3 a part of the Live Project?"
+
+,"Q) Will these training be enough for us to complete the LP3 and Live Project"
+
+,"Q) How do I access my Quiz?"
+
+,"Q) By when will we receive access to Bitrix24?"
+
+,"Q) Can my friends still apply for the Internship Program (IP) - Maharashtra? Can we create awareness about this internship?Can we be the representative for Cloud Counselage in our college?"
+
+,"Q) Is the induction online or offline?"
+
+,"Q) I am trying to complete social media tasks. I completed that day and clicked finish but it didn't show finished in the task menu. What should I do?"
+
+,"Q) My Efficiency is 0% what should I do?"
+
+,"Q) Will you provide mentorship or doubt clearing sessions in this internship?"
+
+,"Q) Problem statements of the Live Project will be chosen by the intern or will be provided by Cloud Counselage?"
+
+,"Q) Can we be a part of your future development team?/ Can we be hired by Cloud Counselage after this internship?" 
+
+,"Q) Can we visit the office? How many times do we have to visit the office for this internship?"
+
+,"Q) Can we extend this internship?" 
+
+,"Q) If we are working on more than one technology, are those technologies added to the certificate?" 
+
+,"Q) Will Live Projects have only one technology or a mixture of technologies?"
+
+,"Q) I forgot to clock in for a few days, will this affect my internship?"
+
+,"Q) Will I get LP3 and Live project of technology other than what I am selected for?"
+
+,"Q) I have not been added to the technology I preferred to work on?" 
+
+,"Q) What are the company policies for IP interns?"
+
+,"Q) I have not got the acknowledgment from you regarding the weekly report"
+
+,"Q) In my work time I can see one exclamation mark?/ What does the remaining time mean?"
+
+,"Q) I could not attend the induction last time, can I get an online induction again?/ I want some points said in the introduction, where can I get them."
+
+,"Q) Can I just finish the task that you have just uploaded as I have attended the live induction session on 22nd of march"
+
+,"Q) I have got another attachment called ‘noname’ or ‘win.dat’ with my Appointment letter, what should I do about it? Will it cause any harm?"
+
+,"Q) Where do we push the code in LP3?"
+
+,"Q) Where should we share our hacker rank id/ where should we share the link/ anything relate to LP3 assignment submission?"
+
+,"Q) When will my review on social media update task be done?"
+
+,"Q) Live project's use case will be provided or can we have our own use case?"
+
+,"Q) Is it necessary to clock-in if I am done with my tasks?"
+
+,"Q) Can we be online after 1 hr in a day?"
+
+,"Q)  I am stuck in LP3/ Live project with a technical issue, Is there any technical person who can help in this?"
+
+,"Q)One of my friends had applied for the IP but she didn't receive any further updates."
+
+,"Q) I have a Query with respect to LP3, what should I do and whom should I ask?"
+
+,"Q) I didn't get my appointment letter yet."
+
+,"Q) For some reason, I'm unable to download my LP3 assignment problem statement document shared on LP3 page, is there any other way I can get it?"
+
+,"Q) If my technology is IOT/ AI/ ML/ etc., do I still have to complete the mandatory training for LP1 'Cloud Computing'?"
+
+,"Q)When will the step 3 of the internship program start?"
+
+,"Q) I  am getting an error:: Exception: SQLSTATE[HY000]: General error: 1 no such table: layout, what should I do?"
+]
+
