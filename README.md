@@ -38,7 +38,7 @@ You can install nltk with the following command:<br>
 
 ## Usage
 To run the AI Chatbot on your local machine, follow these steps:
-- Launch the chatbot application by running python chatbot.py.
+- Launch the chatbot application by running ```python gui.py```.
 - Use the GUI to interact with the chatbot.
 - Type your questions or messages in the chat window.
 - Enjoy the chatbot's responses in both text and voice format!
