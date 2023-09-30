@@ -4,19 +4,19 @@ This project is an AI chatbot implemented in Python using Natural Language Proce
 
 ## Features
 
-### User-Friendly Interface
+#### User-Friendly Interface
 - The chatbot offers a user-friendly and intuitive interface, making it accessible to users without technical expertise.
 
-### Text-to-Voice Capability
+#### Text-to-Voice Capability
 - The chatbot can convert text responses into speech, providing a more engaging and accessible experience for users who prefer voice interactions.
 
-### Graphical User Interface (GUI)
+#### Graphical User Interface (GUI)
 - Specially designed a well-structured GUI for easy navigation and an enhanced user experience.
 
 ## Installation
 Before you can run the AI Chatbot on your local machine, you need to install the following Python libraries using `pip`:
 
-### tkinter
+#### tkinter
 Tkinter is a standard Python library used for creating graphical user interfaces (GUIs). It provides the necessary tools to build interactive windows and interfaces.
 To install tkinter, use the following command:
 ```pip install tkinter```
@@ -26,12 +26,12 @@ Pyttsx3 is a text-to-speech library that allows the chatbot to convert text resp
 You can install pyttsx3 with the following command:
 ```pip install pyttsx3```
 
-### numpy
+#### numpy
 Numpy is a powerful library for numerical operations in Python. While it's imported as np in the code, it may not be directly used in this specific code snippet. However, it's included as a dependency.
 To install numpy, use the following command:
 ```pip install numpy```
 
-### nltk
+#### nltk
 Nltk (Natural Language Toolkit) is a library used for natural language processing. It's an essential part of the chatbot's language understanding capabilities.
 You can install nltk with the following command:
 ```pip install nltk```
