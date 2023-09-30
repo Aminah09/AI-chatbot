@@ -15,21 +15,30 @@ This project is an AI chatbot implemented in Python using Natural Language Proce
 
 ## Installation
 Before you can run the AI Chatbot on your local machine, you need to install the following Python libraries using `pip`:
+
 ### tkinter
-
 Tkinter is a standard Python library used for creating graphical user interfaces (GUIs). It provides the necessary tools to build interactive windows and interfaces.
-
 To install tkinter, use the following command:
-
 ```pip install tkinter```
 
-pip install nltk
-pip install tkinter
-pip install pyttsx3
-pip install numpy
+### pyttsx3
+Pyttsx3 is a text-to-speech library that allows the chatbot to convert text responses into speech. This feature enhances the user experience, especially for those who prefer voice interactions.
+You can install pyttsx3 with the following command:
+```pip install pyttsx3```
 
+### numpy
+Numpy is a powerful library for numerical operations in Python. While it's imported as np in the code, it may not be directly used in this specific code snippet. However, it's included as a dependency.
+To install numpy, use the following command:
+```pip install numpy```
+
+### nltk
+Nltk (Natural Language Toolkit) is a library used for natural language processing. It's an essential part of the chatbot's language understanding capabilities.
+You can install nltk with the following command:
+```pip install nltk```
+
+## Usage
 To run the AI Chatbot on your local machine, follow these steps:
-
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/yourusername/ai-chatbot.git
+- Launch the chatbot application by running python chatbot.py.
+- Use the GUI to interact with the chatbot.
+- Type your questions or messages in the chat window.
+- Enjoy the chatbot's responses in both text and voice format!
