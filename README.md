@@ -11,7 +11,7 @@ This project is an AI chatbot implemented in Python using Natural Language Proce
 - The chatbot can convert text responses into speech, providing a more engaging and accessible experience for users who prefer voice interactions.
 
 ### Graphical User Interface (GUI)
-- Especially designed a well-structured GUI for easy navigation and an enhanced user experience.
+- Specially designed a well-structured GUI for easy navigation and an enhanced user experience.
 
 ## Installation
 Before you can run the AI Chatbot on your local machine, you need to install the following Python libraries using `pip`:
@@ -22,7 +22,7 @@ Tkinter is a standard Python library used for creating graphical user interfaces
 To install tkinter, use the following command:
 
 ```bash
-pip install tkinter
+pip install tkinter ```
 
 pip install nltk
 pip install tkinter
