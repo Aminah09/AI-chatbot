@@ -21,8 +21,7 @@ Tkinter is a standard Python library used for creating graphical user interfaces
 
 To install tkinter, use the following command:
 
-```bash
-pip install tkinter ```
+```pip install tkinter```
 
 pip install nltk
 pip install tkinter
